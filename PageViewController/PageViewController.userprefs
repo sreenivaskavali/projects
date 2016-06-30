@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="PageViewController.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PageViewController.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="58" Column="2" />
+      <File FileName="PageItemViewController.cs" Line="9" Column="24" />
+      <File FileName="ViewController.cs" Line="93" Column="3" />
+      <File FileName="PageViewController.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PageViewController PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
